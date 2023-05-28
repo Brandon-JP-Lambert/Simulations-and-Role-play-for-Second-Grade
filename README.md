@@ -17,6 +17,7 @@ This repository includes:
 1. When my students are having a hard time communicating kindly with others I have them come into the classroom and talk to a stuffed sloth to practice better communication. My students are second graders. Please write three sample conversations between a second grader and the sloth to help the learner develop these skills.
 2. Write a list of the key phrases a student would need in this conversation and what they mean.
 3. Please transform the conversations into gap fill exercises with blanks.
+```
 
 ## Usage
 
